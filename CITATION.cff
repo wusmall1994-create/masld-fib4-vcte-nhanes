@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the associated manuscript and archived software release."
-title: "FIB-4 and elevated liver stiffness in adults with restrictive operational MASLD: NHANES analysis code"
+title: "Low FIB-4 risk and elevated liver stiffness in MASLD: prevalence and reproducibility across two NHANES cycles — analysis code"
 type: software
 authors:
   - family-names: "Liang"
@@ -15,5 +15,6 @@ authors:
     given-names: "Fengxiang"
 version: 1.1.1
 date-released: 2026-07-25
+doi: 10.5281/zenodo.21543264
 license: MIT
 repository-code: "https://github.com/wusmall1994-create/masld-fib4-vcte-nhanes"

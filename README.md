@@ -1,5 +1,7 @@
 # Low FIB-4 and elevated liver stiffness in operational MASLD
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21543264.svg)](https://doi.org/10.5281/zenodo.21543264)
+
 Reproducible code for a repeated cross-sectional analysis of NHANES
 2017–March 2020 and August 2021–August 2023. The study quantifies the
 classification discordance between age-adjusted low-risk FIB-4 and elevated
@@ -174,17 +176,16 @@ repository and journal explicitly require redistribution.
 
 ## Citation and archival release
 
-Before public release, replace the placeholders in `CITATION.cff` and `LICENSE`.
-After pushing to GitHub, create a versioned GitHub release (for example `v1.0.0`)
-and archive that release with Zenodo. Zenodo will assign a DOI; place the DOI
-and the GitHub release URL in the manuscript's Code Availability statement.
+The release corresponding to the submitted manuscript is `v1.1.1`, archived
+on Zenodo at https://doi.org/10.5281/zenodo.21543264.
 
-Suggested statement after archiving:
+Suggested citation statement:
 
 > All code used for cohort construction, survey-weighted domain estimation,
 > complete-case comparison, independent R survey validation, regression,
-> tables and figures is available at [GitHub release URL] and archived at
-> [Zenodo DOI], version 1.0.0.
+> tables and figures is available at
+> https://github.com/wusmall1994-create/masld-fib4-vcte-nhanes and archived at
+> https://doi.org/10.5281/zenodo.21543264, version 1.1.1.
 
 ## License
 
