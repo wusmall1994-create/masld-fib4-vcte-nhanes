@@ -1,0 +1,9 @@
+data/raw/*
+data/derived/*
+!data/raw/.gitkeep
+!data/derived/.gitkeep
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.DS_Store
