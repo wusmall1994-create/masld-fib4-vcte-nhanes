@@ -1,0 +1,4 @@
+﻿weight,lsm_cutoff,masld_n,low_fib4_n,lsm_elevated_percent,lsm_elevated_ci,discordant_in_masld_percent,discordant_in_masld_ci,lsm_elevated_among_low_fib4_percent,lsm_elevated_among_low_fib4_ci,low_fib4_among_lsm_percent,low_fib4_among_lsm_ci,diabetes_low_fib4_lsm_elevated_percent,diabetes_low_fib4_lsm_elevated_ci,design_df
+WTMEC2YR (MEC),8.0,1757,1467,20.398950387567222,18.3-22.5,16.363903103760325,14.3-18.4,18.906652614436222,16.5-21.3,80.21933870545524,76.9-83.5,29.00284438104735,23.7-34.3,15
+WTMEC2YR (MEC),8.6,1757,1467,17.12272875875454,15.3-19.0,13.424081392857632,11.4-15.4,15.510018725566377,13.1-17.9,78.39919432230764,73.3-83.5,25.3619599169922,20.4-30.3,15
+WTMEC2YR (MEC),10.0,1757,1467,12.29754627366826,10.8-13.8,9.608385875234212,8.2-11.1,11.101411000579937,9.4-12.8,78.13254499239306,72.2-84.1,19.344161409952903,15.8-22.9,15
